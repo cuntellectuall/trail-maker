@@ -1,0 +1,6 @@
+{
+  "name": "Rastro Crítico",
+  "description": "Ferrementa especulativa para proteger o julgamento projetual em processos de design com apoio de Inteligência Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
